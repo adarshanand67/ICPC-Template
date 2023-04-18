@@ -4,7 +4,6 @@ A really simple ACM-ICPC code templates generation tool. Only one command is all
 
 What you only need to do is generate the template PDF file with `python gen.py`.
 
-![](ss.png)
 
 ## Requirements
 
@@ -12,10 +11,3 @@ What you only need to do is generate the template PDF file with `python gen.py`.
 
 To install `pdflatex`, you can refer to [MikTex](https://miktex.org/).
 
-## Author
-
-@CZWin32768
-
-## License
-
-[MIT License](LICENSE)
